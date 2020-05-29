@@ -1,2 +1,2 @@
 # custom-plugin-wp
-Template for custom plugin for Wordpress
+You can use this base to create your custom plugin for Wordpress, is really easy!
